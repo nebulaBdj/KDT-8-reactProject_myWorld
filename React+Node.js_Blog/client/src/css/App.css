@@ -1,0 +1,25 @@
+/* .Nav {
+    text-align: center;
+} */
+
+
+.text_App {
+    border-bottom: 1px solid black;
+    padding-left: 20px;
+    text-align: left;
+}
+
+#blogT {
+    border-bottom: 2px dotted #074582;
+    border-top: 2px dotted #074582;
+    padding: 10px 0;
+}
+
+.main{
+    width: 99%;
+}
+
+.body{
+    width: 95%;
+    margin: auto;
+}
